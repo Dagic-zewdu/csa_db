@@ -1,0 +1,211 @@
+_id,created_date,general_name,name,level,__v
+5f884b73e560911ebc1087f7,2020-10-15T13:05:01.166Z,metekel,Alimehal,level_2,0
+5f884b73e560911ebc1087f8,2020-10-15T13:05:01.166Z,metekel,Omedla,level_2,0
+5f884b73e560911ebc1087f9,2020-10-15T13:05:01.166Z,metekel,bambudi,level_2,0
+5f884b73e560911ebc1087fb,2020-10-15T13:05:01.166Z,metekel,Guba,level_3,0
+5f884b73e560911ebc1087fc,2020-10-15T13:05:01.166Z,metekel,Zela,level_3,0
+5f884b73e560911ebc1087fd,2020-10-15T13:05:01.166Z,metekel,Asmende,level_3,0
+5f89c396c3f5741e605ced5c,2020-10-16T15:54:02.073Z,Kefa,omo national park,level_2,0
+5f89c396c3f5741e605ced5d,2020-10-16T15:54:02.073Z,Kefa,Gura fereda,level_3,0
+5f89c396c3f5741e605ced5e,2020-10-16T15:54:02.073Z,Kefa,Jaba,level_3,0
+5f89c396c3f5741e605ced5f,2020-10-16T15:54:02.073Z,Kefa,Tirmatid,level_3,0
+5f89c3b1c3f5741e605ced60,2020-10-16T15:54:02.073Z,Kefa,Bir,level_3,0
+5f89c457c3f5741e605ced61,2020-10-16T15:54:02.073Z,Afar,Afrara lake,level_1,0
+5f89c457c3f5741e605ced62,2020-10-16T15:54:02.073Z,Afar,Alele lake,level_1,0
+5f89c457c3f5741e605ced63,2020-10-16T15:54:02.073Z,Afar,Alele ,level_1,0
+5f89c825c3f5741e605ced65,2020-10-16T15:54:02.073Z,metekel,Mankusha,level_3,0
+5f89c8b8c3f5741e605ced66,2020-10-16T15:54:02.073Z,Afar,semera,level_2,0
+5fb69aca147321193885bb3e,2020-11-19T16:18:18.077Z,Afar,Abi hayik,level_2,0
+5fb69c3b147321193885bb40,2020-11-19T16:24:27.244Z,Tigrai,Lerba,level_2,0
+5fb69c3b147321193885bb41,2020-11-19T16:24:27.244Z,Tigrai,Lecher,level_2,0
+5fb69c3b147321193885bb42,2020-11-19T16:24:27.245Z,Tigrai,Dalul,level_2,0
+5fb69c3b147321193885bb43,2020-11-19T16:24:27.245Z,Tigrai,Dehimala,level_2,0
+5fb69c3b147321193885bb44,2020-11-19T16:24:27.247Z,Tigrai,Badma,level_2,0
+5fb69c3b147321193885bb45,2020-11-19T16:24:27.248Z,Tigrai,Berhale,level_2,0
+5fb69c3b147321193885bb46,2020-11-19T16:24:27.249Z,Tigrai,Badme/Yirga,level_2,0
+5fb69c3b147321193885bb47,2020-11-19T16:24:27.249Z,Tigrai,Dida gisala,level_2,0
+5fb69c3b147321193885bb48,2020-11-19T16:24:27.250Z,Tigrai,berhale,level_2,0
+5fb69f80147321193885bb4a,2020-11-19T16:38:24.465Z,DireDewa,Dewele,level_2,0
+5fb69f80147321193885bb4b,2020-11-19T16:38:24.465Z,DireDewa,Ayesha,level_2,0
+5fb69f80147321193885bb4c,2020-11-19T16:38:24.465Z,DireDewa,Adu Gala,level_2,0
+5fb69f80147321193885bb4d,2020-11-19T16:38:24.466Z,DireDewa,Geblelu,level_2,0
+5fb69f80147321193885bb4e,2020-11-19T16:38:24.466Z,DireDewa,Biagurgura,level_2,0
+5fb69f80147321193885bb4f,2020-11-19T16:38:24.467Z,DireDewa,Ayedera,level_2,0
+5fb69f80147321193885bb50,2020-11-19T16:38:24.467Z,DireDewa,Awara,level_2,0
+5fb6a41d147321193885bb51,2020-11-19T16:58:05.958Z, Semen Gonder,Abederafi,level_2,0
+5fb6a41d147321193885bb52,2020-11-19T16:58:05.959Z, Semen Gonder,Gerar Weha,level_2,0
+5fb6a41d147321193885bb53,2020-11-19T16:58:05.959Z, Semen Gonder,Metema,level_2,0
+5fb6a41d147321193885bb54,2020-11-19T16:58:05.959Z, Semen Gonder,Adi Herdu,level_2,0
+5fb6a41d147321193885bb55,2020-11-19T16:58:05.960Z, Semen Gonder,Kokit,level_2,0
+5fb6a41d147321193885bb56,2020-11-19T16:58:05.960Z, Semen Gonder,Meganari,level_2,0
+5fb6a41d147321193885bb57,2020-11-19T16:58:05.960Z, Semen Gonder,Tawodro Ketema,level_3,0
+5fb6a41d147321193885bb58,2020-11-19T16:58:05.961Z, Semen Gonder,/Kuara/,level_3,0
+5fb6a41d147321193885bb59,2020-11-19T16:58:05.961Z, Semen Gonder,Mahbere Selassie ,level_3,0
+5fb6a41d147321193885bb5a,2020-11-19T16:58:05.961Z, Semen Gonder,Dengure,level_3,0
+5fb6a41d147321193885bb5b,2020-11-19T16:58:05.962Z, Semen Gonder,Humera,level_3,0
+5fb6a60c147321193885bb5c,2020-11-19T17:06:20.670Z,Mesirak Harerge,Mesrak Gamosha,level_2,0
+5fb6a60c147321193885bb5d,2020-11-19T17:06:20.670Z,Mesirak Harerge,Tukayele,level_2,0
+5fb6a60c147321193885bb5e,2020-11-19T17:06:20.670Z,Mesirak Harerge,Adadele,level_2,0
+5fb6a60c147321193885bb5f,2020-11-19T17:06:20.671Z,Mesirak Harerge,Degehamedu,level_2,0
+5fb6a60c147321193885bb60,2020-11-19T17:06:20.671Z,Mesirak Harerge,Harshin,level_3,0
+5fb6a60c147321193885bb61,2020-11-19T17:06:20.671Z,Mesirak Harerge,Teferi Ber,level_3,0
+5fb6a60c147321193885bb62,2020-11-19T17:06:20.671Z,Mesirak Harerge,Togu Wechale,level_3,0
+5fbfc3f2d845c220f8c0b7bd,2020-11-26T15:04:18.662Z,Bale,Guldima,level_2,0
+5fbfc3f2d845c220f8c0b7be,2020-11-26T15:04:18.664Z,Bale,Hargodeb,level_2,0
+5fbfc3f2d845c220f8c0b7bf,2020-11-26T15:04:18.665Z,Bale,Harabure,level_2,0
+5fbfc3f2d845c220f8c0b7c0,2020-11-26T15:04:18.666Z,Bale,Hidebo,level_2,0
+5fbfc3f2d845c220f8c0b7c1,2020-11-26T15:04:18.666Z,Bale,Ramo,level_2,0
+5fbfc3f2d845c220f8c0b7c2,2020-11-26T15:04:18.667Z,Bale,Manchaf,level_2,0
+5fbfc3f2d845c220f8c0b7c3,2020-11-26T15:04:18.667Z,Bale,Maeo,level_2,0
+5fbfc3f2d845c220f8c0b7c4,2020-11-26T15:04:18.667Z,Bale,Hajiaftu,level_2,0
+5fbfc3f2d845c220f8c0b7c5,2020-11-26T15:04:18.668Z,Bale,Burkadra,level_2,0
+5fbfc3f2d845c220f8c0b7c6,2020-11-26T15:04:18.668Z,Bale,Harakololo,level_2,0
+5fbfc3f2d845c220f8c0b7c7,2020-11-26T15:04:18.668Z,Bale,Wedechalem,level_2,0
+5fbfc801d845c220f8c0b7c8,2020-11-26T15:21:37.815Z,Borena,Dolo Ado,level_1,0
+5fbfc801d845c220f8c0b7c9,2020-11-26T15:21:37.816Z,Borena,Leflef,level_1,0
+5fbfc801d845c220f8c0b7ca,2020-11-26T15:21:37.816Z,Borena,Melkasuftu,level_2,0
+5fbfc801d845c220f8c0b7cb,2020-11-26T15:21:37.816Z,Borena,Sede,level_2,0
+5fbfc801d845c220f8c0b7cc,2020-11-26T15:21:37.816Z,Borena,Bekolemayu,level_2,0
+5fbfc801d845c220f8c0b7cd,2020-11-26T15:21:37.817Z,Borena,Melkameri,level_2,0
+5fbfc801d845c220f8c0b7ce,2020-11-26T15:21:37.817Z,Borena,Bukimesho,level_2,0
+5fbfc801d845c220f8c0b7cf,2020-11-26T15:21:37.817Z,Borena,Bude,level_2,0
+5fbfc801d845c220f8c0b7d0,2020-11-26T15:21:37.818Z,Borena,Bilbull,level_2,0
+5fbfc801d845c220f8c0b7d1,2020-11-26T15:21:37.818Z,Borena,Matit,level_2,0
+5fbfc801d845c220f8c0b7d2,2020-11-26T15:21:37.818Z,Borena,Dembero,level_2,0
+5fbfc801d845c220f8c0b7d3,2020-11-26T15:21:37.818Z,Borena,Moyale,level_2,0
+5fbfc801d845c220f8c0b7d4,2020-11-26T15:21:37.819Z,Borena,Kedakuma,level_2,0
+5fbfc801d845c220f8c0b7d5,2020-11-26T15:21:37.819Z,Borena,Eleh,level_2,0
+5fbfc801d845c220f8c0b7d6,2020-11-26T15:21:37.820Z,Borena,Fitle,level_2,0
+5fbfc801d845c220f8c0b7d7,2020-11-26T15:21:37.820Z,Borena,Melka Guba,level_2,0
+5fbfc801d845c220f8c0b7d8,2020-11-26T15:21:37.820Z,Borena,Gindi,level_2,0
+5fbfc801d845c220f8c0b7d9,2020-11-26T15:21:37.821Z,Borena,Udet,level_2,0
+5fbfc801d845c220f8c0b7da,2020-11-26T15:21:37.821Z,Borena,Ajee,level_2,0
+5fbfc801d845c220f8c0b7db,2020-11-26T15:21:37.821Z,Borena,Wachelo,level_2,0
+5fbfc801d845c220f8c0b7dd,2020-11-26T15:21:37.822Z,Borena,Elguf,level_2,0
+5fbfc801d845c220f8c0b7de,2020-11-26T15:21:37.822Z,Borena,Eldima,level_2,0
+5fbfc801d845c220f8c0b7df,2020-11-26T15:21:37.822Z,Borena,Tuka,level_3,0
+5fbfc801d845c220f8c0b7e0,2020-11-26T15:21:37.823Z,Borena,Elweya,level_2,0
+5fbfc8e8d845c220f8c0b7e1,2020-11-26T15:25:28.380Z,Borena,selale,level_2,0
+5fbfca1ad845c220f8c0b7e2,2020-11-26T15:30:34.442Z,Asosa,Kemsha,level_2,0
+5fbfca1ad845c220f8c0b7e3,2020-11-26T15:30:34.442Z,Asosa,Gizane,level_2,0
+5fbfca1ad845c220f8c0b7e4,2020-11-26T15:30:34.442Z,Asosa,Kurmuk,level_2,0
+5fbfca1ad845c220f8c0b7e5,2020-11-26T15:30:34.442Z,Asosa,Famaera,level_2,0
+5fbfca1ad845c220f8c0b7e6,2020-11-26T15:30:34.442Z,Asosa,Dule,level_2,0
+5fbfca1ad845c220f8c0b7e7,2020-11-26T15:30:34.442Z,Asosa,Shede,level_2,0
+5fbfca1ad845c220f8c0b7e8,2020-11-26T15:30:34.442Z,Asosa,Beshel,level_2,0
+5fbfca1ad845c220f8c0b7e9,2020-11-26T15:30:34.443Z,Asosa,Megele,level_3,0
+5fbfca1ad845c220f8c0b7ea,2020-11-26T15:30:34.443Z,Asosa,Menge,level_3,0
+5fbfca1ad845c220f8c0b7eb,2020-11-26T15:30:34.443Z,Asosa,Horkelifa,level_3,0
+5fbfca1ad845c220f8c0b7ec,2020-11-26T15:30:34.443Z,Asosa,Abendio,level_3,0
+5fbfca1ad845c220f8c0b7ed,2020-11-26T15:30:34.443Z,Asosa,Bilmana,level_3,0
+5fbfca1ad845c220f8c0b7ee,2020-11-26T15:30:34.443Z,Asosa,Papararo,level_3,0
+5fbfca1ad845c220f8c0b7ef,2020-11-26T15:30:34.443Z,Asosa,Amager,level_3,0
+5fbfca1ad845c220f8c0b7f0,2020-11-26T15:30:34.443Z,Asosa,Endilu,level_3,0
+5fbfca1ad845c220f8c0b7f1,2020-11-26T15:30:34.443Z,Asosa,Timetmeker,level_3,0
+5fbfcfc4d845c220f8c0b7f2,2020-11-26T15:54:44.137Z,Gambela,Jikawo,level_2,0
+5fbfcfc4d845c220f8c0b7f3,2020-11-26T15:54:44.137Z,Gambela,Etang,level_2,0
+5fbfcfc4d845c220f8c0b7f4,2020-11-26T15:54:44.137Z,Gambela,Gambela,level_2,0
+5fbfcfc4d845c220f8c0b7f5,2020-11-26T15:54:44.138Z,Gambela,Pako,level_2,0
+5fbfcfc4d845c220f8c0b7f6,2020-11-26T15:54:44.139Z,Gambela,Tileyut,level_2,0
+5fbfcfc4d845c220f8c0b7f7,2020-11-26T15:54:44.139Z,Gambela,Berhaneselam,level_2,0
+5fbfcfc4d845c220f8c0b7f8,2020-11-26T15:54:44.139Z,Gambela,Abebo,level_2,0
+5fbfcfc4d845c220f8c0b7f9,2020-11-26T15:54:44.139Z,Gambela,Guge,level_2,0
+5fbfcfc4d845c220f8c0b7fa,2020-11-26T15:54:44.139Z,Gambela,Manguge,level_2,0
+5fbfcfc4d845c220f8c0b7fb,2020-11-26T15:54:44.139Z,Gambela,Wanki,level_2,0
+5fbfcfc4d845c220f8c0b7fc,2020-11-26T15:54:44.139Z,Gambela,Fignimo,level_2,0
+5fbfcfc4d845c220f8c0b7fd,2020-11-26T15:54:44.139Z,Gambela,Fekade Etang,level_2,0
+5fbfcfc4d845c220f8c0b7fe,2020-11-26T15:54:44.139Z,Gambela,Aliya,level_2,0
+5fbfcfc4d845c220f8c0b7ff,2020-11-26T15:54:44.139Z,Gambela,Puchala,level_2,0
+5fbfcfc4d845c220f8c0b800,2020-11-26T15:54:44.139Z,Gambela,Kuatkuar,level_2,0
+5fbfcfc4d845c220f8c0b801,2020-11-26T15:54:44.140Z,Gambela,Adura,level_2,0
+5fbfcfc4d845c220f8c0b802,2020-11-26T15:54:44.140Z,Gambela,Aboll,level_2,0
+5fbfcfc4d845c220f8c0b803,2020-11-26T15:54:44.140Z,Gambela,Finkiya,level_2,0
+5fbfcfc4d845c220f8c0b804,2020-11-26T15:54:44.140Z,Gambela,Figniko,level_2,0
+5fbfcfc4d845c220f8c0b805,2020-11-26T15:54:44.140Z,Gambela,Fekade Abebo,level_2,0
+5fbfcfc4d845c220f8c0b806,2020-11-26T15:54:44.140Z,Gambela,Pall,level_2,0
+5fbfcfc4d845c220f8c0b807,2020-11-26T15:54:44.140Z,Gambela,Dipo,level_2,0
+5fbfcfc4d845c220f8c0b808,2020-11-26T15:54:44.140Z,Gambela,Teyko,level_2,0
+5fbfcfc4d845c220f8c0b809,2020-11-26T15:54:44.140Z,Gambela,Gilu,level_2,0
+5fbfcfc4d845c220f8c0b80a,2020-11-26T15:54:44.140Z,Gambela,Lurwaro,level_2,0
+5fbfcfc4d845c220f8c0b80b,2020-11-26T15:54:44.141Z,Gambela,Shamo,level_2,0
+5fbfcfc4d845c220f8c0b80c,2020-11-26T15:54:44.141Z,Gambela,Shentel,level_2,0
+5fbfd86ed845c220f8c0b80d,2020-11-26T16:31:42.146Z,Afar,Asayta,level_2,0
+5fbfd8bad845c220f8c0b80e,2020-11-26T16:32:58.137Z,Afar,Afambo Hayik,level_2,0
+5fbfd8d2d845c220f8c0b80f,2020-11-26T16:33:22.860Z,Afar,Gamere Hayik,level_2,0
+5fbfdaefd845c220f8c0b810,2020-11-26T16:42:23.371Z,Afar,Menagaga,level_2,0
+5fbfdb79d845c220f8c0b812,2020-11-26T16:44:41.973Z,Afar,Lugiya,level_2,0
+5fbfdea3d845c220f8c0b813,2020-11-26T16:58:11.747Z,Afar,Dubti,level_2,0
+5fbfdeacd845c220f8c0b814,2020-11-26T16:58:20.991Z,Afar,Serdo,level_2,0
+5fbfdec0d845c220f8c0b815,2020-11-26T16:58:40.706Z,Afar,Tendaho,level_2,0
+5fbfdecbd845c220f8c0b816,2020-11-26T16:58:51.689Z,Afar,Eldar,level_2,0
+5fbfdeefd845c220f8c0b817,2020-11-26T16:59:27.388Z,Afar,Ditoto,level_2,0
+5fbfdefad845c220f8c0b818,2020-11-26T16:59:38.272Z,Afar,Galafi,level_2,0
+5fbfdf09d845c220f8c0b819,2020-11-26T16:59:53.948Z,Afar,Bura,level_2,0
+5fbfdf9ed845c220f8c0b81a,2020-11-26T17:02:22.000Z,Tigrai,Rinda,level_2,0
+5fbfe0d6d845c220f8c0b81b,2020-11-26T17:07:34.011Z,Debub Omo,Nemerpuse,level_2,0
+5fbfe0d6d845c220f8c0b81c,2020-11-26T17:07:34.011Z,Debub Omo,Fejeje,level_2,0
+5fbfe0d6d845c220f8c0b81d,2020-11-26T17:07:34.012Z,Debub Omo,Dande,level_2,0
+5fbfe0d6d845c220f8c0b81e,2020-11-26T17:07:34.013Z,Debub Omo,Demeka,level_2,0
+5fbfe0d6d845c220f8c0b81f,2020-11-26T17:07:34.014Z,Debub Omo,Turmi,level_2,0
+5fbfe0d6d845c220f8c0b820,2020-11-26T17:07:34.014Z,Debub Omo,Bume,level_2,0
+5fbfe0d6d845c220f8c0b821,2020-11-26T17:07:34.015Z,Debub Omo,Mubaso,level_2,0
+5fbfe0d6d845c220f8c0b822,2020-11-26T17:07:34.015Z,Debub Omo,Keseme,level_2,0
+5fbfe0d6d845c220f8c0b823,2020-11-26T17:07:34.015Z,Debub Omo,Erbore,level_2,0
+5fbfeb6bd845c220f8c0b824,2020-11-26T17:52:43.275Z,Ogaden,Sulsule,level_1,0
+5fbfeb6bd845c220f8c0b825,2020-11-26T17:52:43.275Z,Ogaden,Gudere,level_1,0
+5fbfeb6bd845c220f8c0b826,2020-11-26T17:52:43.276Z,Ogaden,Ete,level_1,0
+5fbfeb6bd845c220f8c0b827,2020-11-26T17:52:43.276Z,Ogaden,Yet,level_1,0
+5fbfeb6bd845c220f8c0b828,2020-11-26T17:52:43.276Z,Ogaden,Bara,level_1,0
+5fbfeb6bd845c220f8c0b829,2020-11-26T17:52:43.276Z,Ogaden,Dulubaye,level_1,0
+5fbfeb6bd845c220f8c0b82a,2020-11-26T17:52:43.277Z,Ogaden,Deama,level_1,0
+5fbfeb6bd845c220f8c0b82b,2020-11-26T17:52:43.277Z,Ogaden,Bahe,level_1,0
+5fbfeb6bd845c220f8c0b82c,2020-11-26T17:52:43.277Z,Ogaden,Kurmese,level_1,0
+5fbfeb6bd845c220f8c0b82d,2020-11-26T17:52:43.277Z,Ogaden,Gelassi,level_1,0
+5fbfeb6bd845c220f8c0b82e,2020-11-26T17:52:43.277Z,Ogaden,Dedabe,level_1,0
+5fbfeb6bd845c220f8c0b82f,2020-11-26T17:52:43.278Z,Ogaden,Ferfer,level_1,0
+5fbfeb6bd845c220f8c0b830,2020-11-26T17:52:43.278Z,Ogaden,Mestahil,level_1,0
+5fbfeb6bd845c220f8c0b831,2020-11-26T17:52:43.278Z,Ogaden,Kerekure,level_1,0
+5fbfeb6bd845c220f8c0b832,2020-11-26T17:52:43.278Z,Ogaden,Durikesi,level_1,0
+5fbfeb6bd845c220f8c0b833,2020-11-26T17:52:43.279Z,Ogaden,Biyanode,level_2,0
+5fbfeb6bd845c220f8c0b834,2020-11-26T17:52:43.279Z,Ogaden,Hamero,level_2,0
+5fbfeb6bd845c220f8c0b835,2020-11-26T17:52:43.279Z,Ogaden,Lemasholende,level_2,0
+5fbfeb6bd845c220f8c0b836,2020-11-26T17:52:43.279Z,Ogaden,Dawat,level_2,0
+5fbfeb6bd845c220f8c0b837,2020-11-26T17:52:43.280Z,Ogaden,Afker,level_2,0
+5fbfeb6bd845c220f8c0b838,2020-11-26T17:52:43.280Z,Ogaden,Danote,level_2,0
+5fbfeb6bd845c220f8c0b839,2020-11-26T17:52:43.280Z,Ogaden,Hargele,level_2,0
+5fbfeb6bd845c220f8c0b83a,2020-11-26T17:52:43.281Z,Ogaden,Wardare,level_2,0
+5fbfeb6bd845c220f8c0b83b,2020-11-26T17:52:43.281Z,Ogaden,Melkacheret,level_2,0
+5fbfeb6bd845c220f8c0b83c,2020-11-26T17:52:43.282Z,Ogaden,Welwel,level_2,0
+5fbfeb6bd845c220f8c0b83d,2020-11-26T17:52:43.282Z,Ogaden,Surmi,level_2,0
+5fbfeb6bd845c220f8c0b83e,2020-11-26T17:52:43.282Z,Ogaden,Kureha,level_2,0
+5fbfeb6bd845c220f8c0b83f,2020-11-26T17:52:43.283Z,Ogaden,Kewarehinrlei,level_2,0
+5fbfeb6bd845c220f8c0b840,2020-11-26T17:52:43.283Z,Ogaden,Mererale,level_2,0
+5fbfeb6bd845c220f8c0b841,2020-11-26T17:52:43.283Z,Ogaden,Almedo,level_2,0
+5fbfeb6bd845c220f8c0b842,2020-11-26T17:52:43.284Z,Ogaden,Shelabo,level_2,0
+5fbfeb6bd845c220f8c0b843,2020-11-26T17:52:43.284Z,Ogaden,Elkere,level_2,0
+5fbfeb6bd845c220f8c0b844,2020-11-26T17:52:43.284Z,Ogaden,Telafo,level_2,0
+5fbfeb6bd845c220f8c0b845,2020-11-26T17:52:43.285Z,Ogaden,Bebayu,level_2,0
+5fbfeb6bd845c220f8c0b846,2020-11-26T17:52:43.285Z,Ogaden,Edidele,level_2,0
+5fbfeb6bd845c220f8c0b847,2020-11-26T17:52:43.285Z,Ogaden,Emi,level_2,0
+5fbfeb6bd845c220f8c0b848,2020-11-26T17:52:43.285Z,Ogaden,Gude,level_2,0
+5fbfeb6bd845c220f8c0b849,2020-11-26T17:52:43.286Z,Ogaden,Elbahude,level_2,0
+5fbfeb6bd845c220f8c0b84a,2020-11-26T17:52:43.286Z,Ogaden,Awkelif,level_2,0
+5fbfeb6bd845c220f8c0b84b,2020-11-26T17:52:43.286Z,Ogaden,Shebel,level_2,0
+5fbfeb6bd845c220f8c0b84c,2020-11-26T17:52:43.286Z,Ogaden,Arabi,level_2,0
+5fbfeb6bd845c220f8c0b84d,2020-11-26T17:52:43.287Z,Ogaden,Gugeti,level_2,0
+5fbfeb6bd845c220f8c0b84e,2020-11-26T17:52:43.287Z,Ogaden,Biyakobebe,level_2,0
+5fbfeb6bd845c220f8c0b84f,2020-11-26T17:52:43.287Z,Ogaden,Dehune,level_2,0
+5fbfeb6bd845c220f8c0b850,2020-11-26T17:52:43.287Z,Ogaden,Hararba,level_2,0
+5fbfeb6bd845c220f8c0b851,2020-11-26T17:52:43.288Z,Ogaden,Danane,level_2,0
+5fbfeb6bd845c220f8c0b852,2020-11-26T17:52:43.288Z,Ogaden,Shaki,level_2,0
+5fbfeb6bd845c220f8c0b853,2020-11-26T17:52:43.288Z,Ogaden,Imi,level_2,0
+5fbfeb6bd845c220f8c0b854,2020-11-26T17:52:43.289Z,Ogaden,Derewyna,level_2,0
+5fbfeb6bd845c220f8c0b855,2020-11-26T17:52:43.289Z,Ogaden,Kebridehar,level_2,0
+5fbfeb6bd845c220f8c0b856,2020-11-26T17:52:43.289Z,Ogaden,Alkuran,level_2,0
+5fbfeb6bd845c220f8c0b857,2020-11-26T17:52:43.289Z,Ogaden,Shakiso,level_2,0
+5fbfeb6bd845c220f8c0b858,2020-11-26T17:52:43.290Z,Ogaden,Kugna,level_2,0
+5fbfeb6bd845c220f8c0b859,2020-11-26T17:52:43.290Z,Ogaden,Fike,level_2,0
+5fbfeb6bd845c220f8c0b85a,2020-11-26T17:52:43.290Z,Ogaden,Weldiya,level_2,0
+5fbfeb6bd845c220f8c0b85b,2020-11-26T17:52:43.291Z,Ogaden,Segeg,level_2,0
+5fbfeb6bd845c220f8c0b85c,2020-11-26T17:52:43.291Z,Ogaden,Hawedebe,level_2,0
+5fc52b8971ade20a7c362c75,2020-11-30T17:27:37.938Z,Tigrai,Dalul simit,level_1,0
